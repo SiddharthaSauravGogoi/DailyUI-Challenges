@@ -1,0 +1,20 @@
+#wrapper {
+  margin: 150px auto;
+  height: 350px;
+  width: 700px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#wrapper #picture {
+  width: 40%;
+  background-color: aqua;
+}
+
+#wrapper #input-form {
+  width: 60%;
+  background-color: aquamarine;
+}
+/*# sourceMappingURL=main.css.map */
